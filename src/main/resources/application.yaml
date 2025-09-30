@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: toby's Spring
+  datasource:
+    url: jdbc:mysql://localhost:3306/toby
+    username: root
+    password: password
